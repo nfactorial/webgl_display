@@ -4,11 +4,17 @@
   "description": "Web application for creating textures using WebGL.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ./lib/**/*.js > lint.txt"
   },
   "author": "nfactorial",
   "license": "ISC",
   "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0"
+  },
+  "dependencies": {
     "@nfactorial/webgl_helper": "0.0.3"
   }
 }
