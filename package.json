@@ -15,6 +15,6 @@
     "eslint-plugin-import": "^2.13.0"
   },
   "dependencies": {
-    "@nfactorial/webgl_helper": "0.0.3"
+    "@nfactorial/webgl_helper": "0.0.4"
   }
 }
