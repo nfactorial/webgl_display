@@ -10,11 +10,10 @@
   "author": "nfactorial",
   "license": "ISC",
   "devDependencies": {
+    "@nfactorial/webgl_helper": "0.0.5",
     "eslint": "^5.3.0",
     "eslint-config-airbnb": "^17.0.0",
     "eslint-plugin-import": "^2.13.0"
   },
-  "dependencies": {
-    "@nfactorial/webgl_helper": "0.0.4"
-  }
+  "dependencies": {}
 }
