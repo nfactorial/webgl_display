@@ -1,7 +1,7 @@
 {
   "name": "@nfactorial/webgl_display",
   "version": "0.0.1",
-  "description": "Web application for creating textures using WebGL.",
+  "description": "Higher level WebGL abstraction based on top of @nfactorial/webgl_helper.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
