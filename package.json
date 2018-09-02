@@ -1,6 +1,6 @@
 {
   "name": "@nfactorial/webgl_display",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "description": "Higher level WebGL abstraction based on top of @nfactorial/webgl_helper.",
   "main": "index.js",
   "scripts": {
