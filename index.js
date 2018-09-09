@@ -6,7 +6,6 @@ import * as FullScreen from './lib/fullscreen';
 import {CameraType} from './lib/camera_args';
 import CameraArgs from './lib/camera_args';
 import DrawRequest from './lib/draw_request';
-import MaterialInstance from './lib/material/instance';
 import * as PipelineProvider from './lib/pipeline_provider';
 
 export {
@@ -18,6 +17,5 @@ export {
     CameraArgs,
     DrawRequest,
     Material,
-    MaterialInstance,
     PipelineProvider
 };
