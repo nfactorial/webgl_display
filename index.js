@@ -6,16 +6,18 @@ import * as FullScreen from './lib/fullscreen';
 import {CameraType} from './lib/camera_args';
 import CameraArgs from './lib/camera_args';
 import DrawRequest from './lib/draw_request';
+import DrawCommand from './lib/draw_request/draw_command';
 import * as PipelineProvider from './lib/pipeline_provider';
 
 export {
     Math,
+    Material,
     Renderer,
-    FullScreen,
-    DisplayPort,
     CameraType,
     CameraArgs,
+    FullScreen,
+    DisplayPort,
     DrawRequest,
-    Material,
-    PipelineProvider
+    DrawCommand
+    PipelineProvider,
 };
