@@ -18,6 +18,6 @@ export {
     FullScreen,
     DisplayPort,
     DrawRequest,
-    DrawCommand
+    DrawCommand,
     PipelineProvider,
 };
