@@ -15,7 +15,7 @@
     "eslint-plugin-import": "^2.13.0"
   },
   "dependencies": {
-    "@nfactorial/webgl_helper": "0.0.33",
+    "@nfactorial/webgl_helper": "0.0.34",
     "gl-mat3": "^2.0.0",
     "gl-mat4": "^1.2.0",
     "gl-quat": "^1.0.0",
