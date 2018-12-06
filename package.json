@@ -1,6 +1,6 @@
 {
   "name": "@nfactorial/webgl_display",
-  "version": "0.0.50",
+  "version": "0.0.51",
   "description": "Higher level WebGL abstraction based on top of @nfactorial/webgl_helper.",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "eslint-plugin-import": "^2.13.0"
   },
   "dependencies": {
-    "@nfactorial/webgl_helper": "0.0.35",
+    "@nfactorial/webgl_helper": "0.0.36",
     "gl-mat3": "^2.0.0",
     "gl-mat4": "^1.2.0",
     "gl-quat": "^1.0.0",
